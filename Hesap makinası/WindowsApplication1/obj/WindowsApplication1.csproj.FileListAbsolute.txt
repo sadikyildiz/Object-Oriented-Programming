@@ -1,0 +1,32 @@
+C:\Documents and Settings\Sadık\Belgelerim\Visual Studio 2005\Projects\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Sadık\Belgelerim\Visual Studio 2005\Projects\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Sadık\Belgelerim\Visual Studio 2005\Projects\C#\Hesap makinası\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Sadık\Belgelerim\Visual Studio 2005\Projects\C#\Hesap makinası\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Sadık\Belgelerim\Visual Studio 2005\Projects\C#\Hesap makinası\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sadık\Belgelerim\Visual Studio 2005\Projects\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Sadık\Belgelerim\Visual Studio 2005\Projects\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Sadık\Belgelerim\Visual Studio 2005\Projects\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\C#\Hesap makinası\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\C#\Hesap makinası\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\C#\Hesap makinası\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\C#\Hesap makinası\WindowsApplication1\bin\Release\WindowsApplication1.exe
+D:\C#\Hesap makinası\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+D:\C#\Hesap makinası\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\C#\Hesap makinası\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+D:\C#\Hesap makinası\WindowsApplication1\obj\Release\WindowsApplication1.Properties.Resources.resources
+D:\C#\Hesap makinası\WindowsApplication1\obj\Release\WindowsApplication1.csproj.GenerateResource.Cache
+D:\C#\Hesap makinası\WindowsApplication1\obj\Release\WindowsApplication1.exe
+D:\C#\Hesap makinası\WindowsApplication1\obj\Release\WindowsApplication1.pdb
+D:\DDDDDD\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\DDDDDD\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\DDDDDD\C#\Hesap makinası\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\DDDDDD\C#\Hesap makinası\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\DDDDDD\C#\Hesap makinası\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\DDDDDD\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\DDDDDD\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\DDDDDD\C#\Hesap makinası\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
