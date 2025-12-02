@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "degerReferans", "degerReferans\degerReferans.csproj", "{88F6F0FD-C567-485B-8A2C-2F82952D361F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88F6F0FD-C567-485B-8A2C-2F82952D361F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F6F0FD-C567-485B-8A2C-2F82952D361F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F6F0FD-C567-485B-8A2C-2F82952D361F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F6F0FD-C567-485B-8A2C-2F82952D361F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB1340CF-3823-4BCD-976A-ABAC0C1C398F}
+	EndGlobalSection
+EndGlobal
