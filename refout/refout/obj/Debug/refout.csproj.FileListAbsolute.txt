@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\refout\refout\bin\Debug\refout.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\refout\refout\bin\Debug\refout.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\refout\refout\bin\Debug\refout.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\refout\refout\obj\Debug\refout.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\refout\refout\obj\Debug\refout.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\refout\refout\obj\Debug\refout.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\refout\refout\obj\Debug\refout.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\refout\refout\obj\Debug\refout.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\refout\refout\obj\Debug\refout.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\refout\refout\obj\Debug\refout.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\refout\refout\obj\Debug\refout.exe.config
