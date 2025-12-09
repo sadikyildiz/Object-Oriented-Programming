@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Interface\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Interface\Interface\obj\Debug\Interface.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Interface\Interface\obj\Debug\Interface.exe.config
