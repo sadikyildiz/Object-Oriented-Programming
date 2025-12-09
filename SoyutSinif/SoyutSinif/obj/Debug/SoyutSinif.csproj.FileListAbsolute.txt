@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\SoyutSinif\SoyutSinif\obj\Debug\SoyutSinif.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\SoyutSinif\SoyutSinif\obj\Debug\SoyutSinif.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\SoyutSinif\SoyutSinif\obj\Debug\SoyutSinif.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\SoyutSinif\SoyutSinif\obj\Debug\SoyutSinif.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\SoyutSinif\SoyutSinif\obj\Debug\SoyutSinif.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\SoyutSinif\SoyutSinif\bin\Debug\SoyutSinif.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\SoyutSinif\SoyutSinif\bin\Debug\SoyutSinif.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\SoyutSinif\SoyutSinif\bin\Debug\SoyutSinif.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\SoyutSinif\SoyutSinif\obj\Debug\SoyutSinif.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\SoyutSinif\SoyutSinif\obj\Debug\SoyutSinif.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\SoyutSinif\SoyutSinif\obj\Debug\SoyutSinif.exe.config
