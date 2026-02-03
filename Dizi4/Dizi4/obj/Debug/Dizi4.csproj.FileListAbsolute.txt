@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi4\Dizi4\bin\Debug\Dizi4.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi4\Dizi4\bin\Debug\Dizi4.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi4\Dizi4\bin\Debug\Dizi4.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi4\Dizi4\obj\Debug\Dizi4.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi4\Dizi4\obj\Debug\Dizi4.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi4\Dizi4\obj\Debug\Dizi4.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi4\Dizi4\obj\Debug\Dizi4.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi4\Dizi4\obj\Debug\Dizi4.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi4\Dizi4\obj\Debug\Dizi4.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi4\Dizi4\obj\Debug\Dizi4.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi4\Dizi4\obj\Debug\Dizi4.exe.config
