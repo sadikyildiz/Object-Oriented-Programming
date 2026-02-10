@@ -1,0 +1,10 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Dictionary1\Dictionary1\bin\Debug\Dictionary1.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Dictionary1\Dictionary1\bin\Debug\Dictionary1.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Dictionary1\Dictionary1\bin\Debug\Dictionary1.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Dictionary1\Dictionary1\obj\Debug\Dictionary1.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Dictionary1\Dictionary1\obj\Debug\Dictionary1.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Dictionary1\Dictionary1\obj\Debug\Dictionary1.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Dictionary1\Dictionary1\obj\Debug\Dictionary1.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Dictionary1\Dictionary1\obj\Debug\Dictionary1.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Dictionary1\Dictionary1\obj\Debug\Dictionary1.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Dictionary1\Dictionary1\obj\Debug\Dictionary1.pdb
