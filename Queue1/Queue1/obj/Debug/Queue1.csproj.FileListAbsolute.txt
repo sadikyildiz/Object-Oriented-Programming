@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Queue1\Queue1\obj\Debug\Queue1.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Queue1\Queue1\obj\Debug\Queue1.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Queue1\Queue1\obj\Debug\Queue1.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Queue1\Queue1\obj\Debug\Queue1.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Queue1\Queue1\obj\Debug\Queue1.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Queue1\Queue1\bin\Debug\Queue1.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Queue1\Queue1\bin\Debug\Queue1.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Queue1\Queue1\bin\Debug\Queue1.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Queue1\Queue1\obj\Debug\Queue1.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Queue1\Queue1\obj\Debug\Queue1.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Queue1\Queue1\obj\Debug\Queue1.exe.config
