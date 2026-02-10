@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi5(Oyun)\Dizi5(Oyun)\bin\Debug\Dizi5(Oyun).exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi5(Oyun)\Dizi5(Oyun)\bin\Debug\Dizi5(Oyun).exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi5(Oyun)\Dizi5(Oyun)\bin\Debug\Dizi5(Oyun).pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi5(Oyun)\Dizi5(Oyun)\obj\Debug\Dizi5(Oyun).csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi5(Oyun)\Dizi5(Oyun)\obj\Debug\Dizi5_Oyun_.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi5(Oyun)\Dizi5(Oyun)\obj\Debug\Dizi5_Oyun_.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi5(Oyun)\Dizi5(Oyun)\obj\Debug\Dizi5(Oyun).csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi5(Oyun)\Dizi5(Oyun)\obj\Debug\Dizi5(Oyun).csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi5(Oyun)\Dizi5(Oyun)\obj\Debug\Dizi5(Oyun).exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi5(Oyun)\Dizi5(Oyun)\obj\Debug\Dizi5(Oyun).pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\16.Hafta\Dizi5(Oyun)\Dizi5(Oyun)\obj\Debug\Dizi5(Oyun).exe.config
