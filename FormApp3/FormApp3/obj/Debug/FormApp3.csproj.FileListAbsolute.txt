@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp3\FormApp3\bin\Debug\FormApp3.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp3\FormApp3\bin\Debug\FormApp3.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp3\FormApp3\bin\Debug\FormApp3.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp3\FormApp3\obj\Debug\FormApp3.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp3\FormApp3\obj\Debug\FormApp3.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp3\FormApp3\obj\Debug\FormApp3.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp3\FormApp3\obj\Debug\FormApp3.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp3\FormApp3\obj\Debug\FormApp3.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp3\FormApp3\obj\Debug\FormApp3.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp3\FormApp3\obj\Debug\FormApp3.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp3\FormApp3\obj\Debug\FormApp3.exe.config
