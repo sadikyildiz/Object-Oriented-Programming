@@ -1,0 +1,11 @@
+C:\Users\sayi\Desktop\Sinav\siramatik\siramatik\bin\Debug\siramatik.exe.config
+C:\Users\sayi\Desktop\Sinav\siramatik\siramatik\bin\Debug\siramatik.exe
+C:\Users\sayi\Desktop\Sinav\siramatik\siramatik\bin\Debug\siramatik.pdb
+C:\Users\sayi\Desktop\Sinav\siramatik\siramatik\obj\Debug\siramatik.csproj.AssemblyReference.cache
+C:\Users\sayi\Desktop\Sinav\siramatik\siramatik\obj\Debug\siramatik.Form1.resources
+C:\Users\sayi\Desktop\Sinav\siramatik\siramatik\obj\Debug\siramatik.Properties.Resources.resources
+C:\Users\sayi\Desktop\Sinav\siramatik\siramatik\obj\Debug\siramatik.csproj.GenerateResource.cache
+C:\Users\sayi\Desktop\Sinav\siramatik\siramatik\obj\Debug\siramatik.csproj.CoreCompileInputs.cache
+C:\Users\sayi\Desktop\Sinav\siramatik\siramatik\obj\Debug\siramatik.exe
+C:\Users\sayi\Desktop\Sinav\siramatik\siramatik\obj\Debug\siramatik.pdb
+C:\Users\sayi\Desktop\Sinav\siramatik\siramatik\obj\Debug\siramatik.exe.config
