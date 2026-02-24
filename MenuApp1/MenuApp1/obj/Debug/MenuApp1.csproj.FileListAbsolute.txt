@@ -1,0 +1,22 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\MenuApp1\MenuApp1\bin\Debug\MenuApp1.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\MenuApp1\MenuApp1\bin\Debug\MenuApp1.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\MenuApp1\MenuApp1\bin\Debug\MenuApp1.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\MenuApp1\MenuApp1\bin\Debug\MenuApp1.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\MenuApp1\MenuApp1\bin\Debug\MenuApp1.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\MenuApp1\MenuApp1\bin\Debug\MenuApp1.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\MenuApp1\MenuApp1\obj\Debug\MenuApp1.pdb
