@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\inputvalidation\inputvalidation\bin\Debug\inputvalidation.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\inputvalidation\inputvalidation\bin\Debug\inputvalidation.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\inputvalidation\inputvalidation\bin\Debug\inputvalidation.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\inputvalidation\inputvalidation\obj\Debug\inputvalidation.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\inputvalidation\inputvalidation\obj\Debug\inputvalidation.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\inputvalidation\inputvalidation\obj\Debug\inputvalidation.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\inputvalidation\inputvalidation\obj\Debug\inputvalidation.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\inputvalidation\inputvalidation\obj\Debug\inputvalidation.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\inputvalidation\inputvalidation\obj\Debug\inputvalidation.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\inputvalidation\inputvalidation\obj\Debug\inputvalidation.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\inputvalidation\inputvalidation\obj\Debug\inputvalidation.exe.config
