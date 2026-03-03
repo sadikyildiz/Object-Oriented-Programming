@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\maskedtextbox\maskedtextbox\bin\Debug\maskedtextbox.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\maskedtextbox\maskedtextbox\bin\Debug\maskedtextbox.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\maskedtextbox\maskedtextbox\bin\Debug\maskedtextbox.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\maskedtextbox\maskedtextbox\obj\Debug\maskedtextbox.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\maskedtextbox\maskedtextbox\obj\Debug\maskedtextbox.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\maskedtextbox\maskedtextbox\obj\Debug\maskedtextbox.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\maskedtextbox\maskedtextbox\obj\Debug\maskedtextbox.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\maskedtextbox\maskedtextbox\obj\Debug\maskedtextbox.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\maskedtextbox\maskedtextbox\obj\Debug\maskedtextbox.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\maskedtextbox\maskedtextbox\obj\Debug\maskedtextbox.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\maskedtextbox\maskedtextbox\obj\Debug\maskedtextbox.exe.config
