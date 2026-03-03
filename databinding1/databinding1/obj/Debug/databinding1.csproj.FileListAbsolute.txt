@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\databinding1\databinding1\bin\Debug\databinding1.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\databinding1\databinding1\bin\Debug\databinding1.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\databinding1\databinding1\bin\Debug\databinding1.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\databinding1\databinding1\obj\Debug\databinding1.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\databinding1\databinding1\obj\Debug\databinding1.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\databinding1\databinding1\obj\Debug\databinding1.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\databinding1\databinding1\obj\Debug\databinding1.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\databinding1\databinding1\obj\Debug\databinding1.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\databinding1\databinding1\obj\Debug\databinding1.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\databinding1\databinding1\obj\Debug\databinding1.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\databinding1\databinding1\obj\Debug\databinding1.exe.config
