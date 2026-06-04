@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|c:\\users\\sadik\\desktop\\sad\u0131k\\projelerim\\29.hafta\\kutuphaneprojesi\\kutuphaneprojesi\\formodunckitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|solutionrelative:kutuphaneprojesi\\formodunckitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|c:\\users\\sadik\\desktop\\sad\u0131k\\projelerim\\29.hafta\\kutuphaneprojesi\\kutuphaneprojesi\\formodunckitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|solutionrelative:kutuphaneprojesi\\formodunckitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|c:\\users\\sadik\\desktop\\sad\u0131k\\projelerim\\29.hafta\\kutuphaneprojesi\\kutuphaneprojesi\\formkitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|solutionrelative:kutuphaneprojesi\\formkitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|c:\\users\\sadik\\desktop\\sad\u0131k\\projelerim\\29.hafta\\kutuphaneprojesi\\kutuphaneprojesi\\formkitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|solutionrelative:kutuphaneprojesi\\formkitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|c:\\users\\sadik\\desktop\\sad\u0131k\\projelerim\\29.hafta\\kutuphaneprojesi\\kutuphaneprojesi\\formkitaptur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|solutionrelative:kutuphaneprojesi\\formkitaptur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|c:\\users\\sadik\\desktop\\sad\u0131k\\projelerim\\29.hafta\\kutuphaneprojesi\\kutuphaneprojesi\\formkitaptur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|solutionrelative:kutuphaneprojesi\\formkitaptur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formOduncKitap.cs",
+              "DocumentMoniker": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\formOduncKitap.cs",
+              "RelativeDocumentMoniker": "KutuphaneProjesi\\formOduncKitap.cs",
+              "ToolTip": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\formOduncKitap.cs",
+              "RelativeToolTip": "KutuphaneProjesi\\formOduncKitap.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAIAwwMgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:41:22.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formOduncKitap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\formOduncKitap.cs",
+              "RelativeDocumentMoniker": "KutuphaneProjesi\\formOduncKitap.cs",
+              "ToolTip": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\formOduncKitap.cs [Design]",
+              "RelativeToolTip": "KutuphaneProjesi\\formOduncKitap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:30:28.057Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formKitap.cs",
+              "DocumentMoniker": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\formKitap.cs",
+              "RelativeDocumentMoniker": "KutuphaneProjesi\\formKitap.cs",
+              "ToolTip": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\formKitap.cs",
+              "RelativeToolTip": "KutuphaneProjesi\\formKitap.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:51:41.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formKitap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\formKitap.cs",
+              "RelativeDocumentMoniker": "KutuphaneProjesi\\formKitap.cs",
+              "ToolTip": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\formKitap.cs [Design]",
+              "RelativeToolTip": "KutuphaneProjesi\\formKitap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:44:06.993Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formKitapTur.cs",
+              "DocumentMoniker": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\formKitapTur.cs",
+              "RelativeDocumentMoniker": "KutuphaneProjesi\\formKitapTur.cs",
+              "ToolTip": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\formKitapTur.cs",
+              "RelativeToolTip": "KutuphaneProjesi\\formKitapTur.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:23:07.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formKitapTur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\formKitapTur.cs",
+              "RelativeDocumentMoniker": "KutuphaneProjesi\\formKitapTur.cs",
+              "ToolTip": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\formKitapTur.cs [Design]",
+              "RelativeToolTip": "KutuphaneProjesi\\formKitapTur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:17:43.382Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|c:\\users\\sadik\\desktop\\sad\u0131k\\projelerim\\29.hafta\\kutuphaneprojesi\\kutuphaneprojesi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|solutionrelative:kutuphaneprojesi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|c:\\users\\sadik\\desktop\\sad\u0131k\\projelerim\\29.hafta\\kutuphaneprojesi\\kutuphaneprojesi\\veritabaniislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B2518D-916E-4A80-AC52-8B62057FBAA8}|KutuphaneProjesi\\KutuphaneProjesi.csproj|solutionrelative:kutuphaneprojesi\\veritabaniislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeriTabaniIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\VeriTabaniIslemleri.cs",
+              "RelativeDocumentMoniker": "KutuphaneProjesi\\VeriTabaniIslemleri.cs",
+              "ToolTip": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\VeriTabaniIslemleri.cs",
+              "RelativeToolTip": "KutuphaneProjesi\\VeriTabaniIslemleri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T13:16:25.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\App.config",
+              "RelativeDocumentMoniker": "KutuphaneProjesi\\App.config",
+              "ToolTip": "C:\\Users\\SADIK\\Desktop\\Sad\u0131k\\Projelerim\\29.Hafta\\KutuphaneProjesi\\KutuphaneProjesi\\App.config",
+              "RelativeToolTip": "KutuphaneProjesi\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-02T13:15:26.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
