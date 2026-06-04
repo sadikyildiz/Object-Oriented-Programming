@@ -1,0 +1,10 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\tooltip\tooltip\bin\Debug\tooltip.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\tooltip\tooltip\bin\Debug\tooltip.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\tooltip\tooltip\bin\Debug\tooltip.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\tooltip\tooltip\obj\Debug\tooltip.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\tooltip\tooltip\obj\Debug\tooltip.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\tooltip\tooltip\obj\Debug\tooltip.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\tooltip\tooltip\obj\Debug\tooltip.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\tooltip\tooltip\obj\Debug\tooltip.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\tooltip\tooltip\obj\Debug\tooltip.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\tooltip\tooltip\obj\Debug\tooltip.pdb

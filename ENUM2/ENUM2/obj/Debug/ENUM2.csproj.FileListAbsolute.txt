@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\14.Hafta\ENUM2\ENUM2\bin\Debug\ENUM2.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\14.Hafta\ENUM2\ENUM2\bin\Debug\ENUM2.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\14.Hafta\ENUM2\ENUM2\bin\Debug\ENUM2.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\14.Hafta\ENUM2\ENUM2\obj\Debug\ENUM2.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\14.Hafta\ENUM2\ENUM2\obj\Debug\ENUM2.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\14.Hafta\ENUM2\ENUM2\obj\Debug\ENUM2.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\14.Hafta\ENUM2\ENUM2\obj\Debug\ENUM2.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\14.Hafta\ENUM2\ENUM2\obj\Debug\ENUM2.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\14.Hafta\ENUM2\ENUM2\obj\Debug\ENUM2.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\14.Hafta\ENUM2\ENUM2\obj\Debug\ENUM2.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\14.Hafta\ENUM2\ENUM2\obj\Debug\ENUM2.exe.config

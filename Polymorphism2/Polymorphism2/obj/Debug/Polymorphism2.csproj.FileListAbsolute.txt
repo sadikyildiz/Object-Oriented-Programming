@@ -1,0 +1,10 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism2\Polymorphism2\bin\Debug\Polymorphism2.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism2\Polymorphism2\bin\Debug\Polymorphism2.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism2\Polymorphism2\bin\Debug\Polymorphism2.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.pdb

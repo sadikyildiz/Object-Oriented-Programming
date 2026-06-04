@@ -1,0 +1,13 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\Kalitim\Kalitim\bin\Debug\Kalitim.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\Kalitim\Kalitim\bin\Debug\Kalitim.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\Kalitim\Kalitim\bin\Debug\Kalitim.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\Kalitim\Kalitim\obj\Debug\Kalitim.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\Kalitim\Kalitim\obj\Debug\Kalitim.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\Kalitim\Kalitim\obj\Debug\Kalitim.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\Kalitim\Kalitim\obj\Debug\Kalitim.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\Kalitim\Kalitim\obj\Debug\Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\Kalitim\Kalitim\obj\Debug\Kalitim.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\Kalitim\Kalitim\obj\Debug\Kalitim.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\Kalitim\Kalitim\obj\Debug\Kalitim.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\Kalitim\Kalitim\obj\Debug\Kalitim.Form2.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\Kalitim\Kalitim\obj\Debug\Kalitim.Form3.resources

@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\DialogBoxes\DialogBoxes\bin\Debug\DialogBoxes.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\DialogBoxes\DialogBoxes\bin\Debug\DialogBoxes.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\DialogBoxes\DialogBoxes\bin\Debug\DialogBoxes.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\19. Hafta\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.exe.config

@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp2\FormApp2\bin\Debug\FormApp2.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp2\FormApp2\bin\Debug\FormApp2.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp2\FormApp2\bin\Debug\FormApp2.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp2\FormApp2\obj\Debug\FormApp2.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp2\FormApp2\obj\Debug\FormApp2.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp2\FormApp2\obj\Debug\FormApp2.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp2\FormApp2\obj\Debug\FormApp2.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp2\FormApp2\obj\Debug\FormApp2.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp2\FormApp2\obj\Debug\FormApp2.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp2\FormApp2\obj\Debug\FormApp2.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\18.Hafta\FormApp2\FormApp2\obj\Debug\FormApp2.exe.config

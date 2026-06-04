@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism1\Polymorphism1\bin\Debug\Polymorphism1.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism1\Polymorphism1\bin\Debug\Polymorphism1.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism1\Polymorphism1\bin\Debug\Polymorphism1.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism1\Polymorphism1\obj\Debug\Polymorphism1.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism1\Polymorphism1\obj\Debug\Polymorphism1.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism1\Polymorphism1\obj\Debug\Polymorphism1.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism1\Polymorphism1\obj\Debug\Polymorphism1.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism1\Polymorphism1\obj\Debug\Polymorphism1.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism1\Polymorphism1\obj\Debug\Polymorphism1.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism1\Polymorphism1\obj\Debug\Polymorphism1.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\13.Hafta\Polymorphism1\Polymorphism1\obj\Debug\Polymorphism1.exe.config

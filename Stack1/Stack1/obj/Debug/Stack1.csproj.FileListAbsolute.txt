@@ -1,0 +1,10 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Stack1\Stack1\bin\Debug\Stack1.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Stack1\Stack1\bin\Debug\Stack1.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Stack1\Stack1\bin\Debug\Stack1.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Stack1\Stack1\obj\Debug\Stack1.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Stack1\Stack1\obj\Debug\Stack1.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Stack1\Stack1\obj\Debug\Stack1.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Stack1\Stack1\obj\Debug\Stack1.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Stack1\Stack1\obj\Debug\Stack1.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Stack1\Stack1\obj\Debug\Stack1.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\17.Hafta\Stack1\Stack1\obj\Debug\Stack1.pdb

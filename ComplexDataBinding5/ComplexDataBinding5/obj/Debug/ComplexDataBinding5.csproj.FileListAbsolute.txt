@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\21. Hafta\ComplexDataBinding5\ComplexDataBinding5\bin\Debug\ComplexDataBinding5.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\21. Hafta\ComplexDataBinding5\ComplexDataBinding5\bin\Debug\ComplexDataBinding5.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\21. Hafta\ComplexDataBinding5\ComplexDataBinding5\bin\Debug\ComplexDataBinding5.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\21. Hafta\ComplexDataBinding5\ComplexDataBinding5\obj\Debug\ComplexDataBinding5.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\21. Hafta\ComplexDataBinding5\ComplexDataBinding5\obj\Debug\ComplexDataBinding5.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\21. Hafta\ComplexDataBinding5\ComplexDataBinding5\obj\Debug\ComplexDataBinding5.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\21. Hafta\ComplexDataBinding5\ComplexDataBinding5\obj\Debug\ComplexDataBinding5.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\21. Hafta\ComplexDataBinding5\ComplexDataBinding5\obj\Debug\ComplexDataBinding5.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\21. Hafta\ComplexDataBinding5\ComplexDataBinding5\obj\Debug\ComplexDataBinding5.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\21. Hafta\ComplexDataBinding5\ComplexDataBinding5\obj\Debug\ComplexDataBinding5.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\21. Hafta\ComplexDataBinding5\ComplexDataBinding5\obj\Debug\ComplexDataBinding5.exe.config

@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\degerReferans\degerReferans\bin\Debug\degerReferans.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\degerReferans\degerReferans\bin\Debug\degerReferans.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\degerReferans\degerReferans\bin\Debug\degerReferans.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\degerReferans\degerReferans\obj\Debug\degerReferans.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\degerReferans\degerReferans\obj\Debug\degerReferans.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\degerReferans\degerReferans\obj\Debug\degerReferans.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\degerReferans\degerReferans\obj\Debug\degerReferans.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\degerReferans\degerReferans\obj\Debug\degerReferans.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\degerReferans\degerReferans\obj\Debug\degerReferans.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\degerReferans\degerReferans\obj\Debug\degerReferans.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\12.Hafta\degerReferans\degerReferans\obj\Debug\degerReferans.exe.config

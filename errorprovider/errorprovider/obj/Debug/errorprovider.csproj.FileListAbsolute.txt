@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\errorprovider\errorprovider\bin\Debug\errorprovider.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\errorprovider\errorprovider\bin\Debug\errorprovider.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\errorprovider\errorprovider\bin\Debug\errorprovider.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\errorprovider\errorprovider\obj\Debug\errorprovider.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\errorprovider\errorprovider\obj\Debug\errorprovider.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\errorprovider\errorprovider\obj\Debug\errorprovider.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\errorprovider\errorprovider\obj\Debug\errorprovider.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\errorprovider\errorprovider\obj\Debug\errorprovider.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\errorprovider\errorprovider\obj\Debug\errorprovider.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\errorprovider\errorprovider\obj\Debug\errorprovider.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\20. Hafta\errorprovider\errorprovider\obj\Debug\errorprovider.exe.config

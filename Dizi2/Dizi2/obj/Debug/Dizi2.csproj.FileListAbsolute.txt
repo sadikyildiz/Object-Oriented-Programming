@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\15.Hafta\Dizi2\Dizi2\bin\Debug\Dizi2.exe.config
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\15.Hafta\Dizi2\Dizi2\bin\Debug\Dizi2.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\15.Hafta\Dizi2\Dizi2\bin\Debug\Dizi2.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\15.Hafta\Dizi2\Dizi2\obj\Debug\Dizi2.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\15.Hafta\Dizi2\Dizi2\obj\Debug\Dizi2.Form1.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\15.Hafta\Dizi2\Dizi2\obj\Debug\Dizi2.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\15.Hafta\Dizi2\Dizi2\obj\Debug\Dizi2.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\15.Hafta\Dizi2\Dizi2\obj\Debug\Dizi2.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\15.Hafta\Dizi2\Dizi2\obj\Debug\Dizi2.exe
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\15.Hafta\Dizi2\Dizi2\obj\Debug\Dizi2.pdb
+C:\Users\FMTAL\Desktop\Sadık\Projelerim\15.Hafta\Dizi2\Dizi2\obj\Debug\Dizi2.exe.config
